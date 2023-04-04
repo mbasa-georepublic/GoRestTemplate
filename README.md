@@ -1,6 +1,12 @@
-# Gin Webservice Test
+# GoRestTemplate
 
-### To Instsll Gin and Gorm
+Sample GoLang Application that can accept REST requests using GIN that stores
+data into a SQLite table using GORM
+
+This sample application is based on this [tutorial](https://blog.logrocket.com/rest-api-golang-gin-gorm/)
+
+
+### To Install Gin and Gorm
 
 ```
 go get github.com/gin-gonic/gin gorm.io/gorm
